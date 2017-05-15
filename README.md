@@ -1,6 +1,8 @@
 # calcuclock-hw
 PCB and schematic for the calcuclock project. The firmware for this hardware can be found at https://github.com/charliebruce/calcuclock-sw
 
+![alt text](https://raw.githubusercontent.com/charliebruce/calcuclock-hw/master/board-render.png "PCB Render")
+
 # License
 Released under the CC BY-NC-SA 3.0 license.
 
