@@ -1,6 +1,8 @@
 # calcuclock-hw
 PCB and schematic for the calcuclock project. The firmware for this hardware can be found at https://github.com/charliebruce/calcuclock-sw
 
+This PCB can be purchased through OSHPark: https://oshpark.com/shared_projects/vCfoimMo
+
 ![alt text](https://raw.githubusercontent.com/charliebruce/calcuclock-hw/master/board-render.png "PCB Render")
 
 # License
